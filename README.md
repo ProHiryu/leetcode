@@ -6,4 +6,4 @@ record code and solutions on leetcode
 
 ### multi_var_DP
 
-- [801 Minimum Swaps To Make Sequences Increasing](/DP/multivarDP/801. Minimum Swaps To Make Sequences Increasing.md)
+- [801 Minimum Swaps To Make Sequences Increasing](./DP/multivarDP/801. Minimum Swaps To Make Sequences Increasing.md)
