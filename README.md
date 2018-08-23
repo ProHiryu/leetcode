@@ -11,3 +11,4 @@ record code and solutions on leetcode
 ### traditional_DP
 
 - [664 Strange Printer](/DP/traditionalDP/664.md)
+- [808 Soup Servings](/DP/traditionalDP/808.md)
