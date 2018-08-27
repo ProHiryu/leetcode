@@ -12,4 +12,5 @@ record code and solutions on leetcode
 
 - [664 Strange Printer](/DP/traditionalDP/664.md)
 - **[688 Knight Probability in Chessboard](/DP/traditionalDP/688.md)**
+- [691 Stickers to Spell Word](/DP/traditionalDP/691.md)
 - [808 Soup Servings](/DP/traditionalDP/808.md)
