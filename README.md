@@ -21,8 +21,8 @@ record code and solutions on leetcode
 
 ### difference_DP
 
-- [837 New 21 Game](/DP/traditionalDP/837.md)
-- [877 Stone Game](/DP/traditionalDP/877.md)
+- [837 New 21 Game](/DP/differenceDP/837.md)
+- [877 Stone Game](/DP/differenceDP/877.md)
 
 ## Two Pointers
 
