@@ -25,6 +25,10 @@ record code and solutions on leetcode
 
 - **[838 Push Dominoes](/TP/838.md)**
 
-### BFS
+## BFS
 
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
+
+## Heap
+
+- **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
