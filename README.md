@@ -21,7 +21,8 @@ record code and solutions on leetcode
 
 ### difference_DP
 
-- [837 New 21 Game](/DP/differenceDP/837.md)
+- **[837 New 21 Game](/DP/differenceDP/837.md)**
+- [873 Length of Longest Fibonacci Subsequence](/DP/differenceDP/873.md)
 - [877 Stone Game](/DP/differenceDP/877.md)
 
 ## Two Pointers
