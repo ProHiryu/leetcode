@@ -19,6 +19,7 @@ record code and solutions on leetcode
 - **[813 Largest Sum of Averages](/DP/traditionalDP/813.md)**
 - [818 Race Car](/DP/traditionalDP/818.md)
 - [837 New 21 Game](/DP/traditionalDP/837.md)
+- [877 Stone Game](/DP/traditionalDP/877.md)
 
 ## Two Pointers
 
