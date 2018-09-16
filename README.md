@@ -35,7 +35,7 @@ record code and solutions on leetcode
 
 ## DFS
 
-- **[698 Partition to K Equal Sum Subsets](/DFS/698.md)**
+- **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
 
