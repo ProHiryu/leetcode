@@ -33,6 +33,10 @@ record code and solutions on leetcode
 
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
+## DFS
+
+- **[698 Partition to K Equal Sum Subsets](/DFS/698.md)**
+
 ## Heap
 
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
