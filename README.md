@@ -4,6 +4,10 @@ record code and solutions on leetcode
 
 ## Dynamic Programming
 
+### Knapsack
+
+- **[879 Profitable Schemes](/DP/knapsack/879.md)**
+
 ### multi_var_DP
 
 - [801 Minimum Swaps To Make Sequences Increasing](/DP/multivarDP/801.md)
@@ -34,6 +38,8 @@ record code and solutions on leetcode
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
+
+### traditional_DFS
 
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
