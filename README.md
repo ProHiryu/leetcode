@@ -6,6 +6,8 @@ record code and solutions on leetcode
 
 ### Knapsack
 
+> [Defination](https://baike.baidu.com/item/背包问题/2416931?fr=aladdin)
+
 - **[879 Profitable Schemes](/DP/knapsack/879.md)**
 
 ### multi_var_DP
