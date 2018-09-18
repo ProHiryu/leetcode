@@ -61,3 +61,4 @@ record code and solutions on leetcode
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
+- **[NSUM](/General/18.md)**
