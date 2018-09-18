@@ -26,6 +26,7 @@ record code and solutions on leetcode
 - [818 Race Car](/DP/traditionalDP/818.md)
 - **[887 Super Egg Drop](/DP/traditionalDP/887.md)**
 - [898 Bitwise ORs of Subarrays](/DP/traditionalDP/898.md)
+- [903 Valid Permutations for DI Sequence](/DP/traditionalDP/903.md)
 
 ### difference_DP
 
