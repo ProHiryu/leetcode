@@ -56,3 +56,7 @@ record code and solutions on leetcode
 ## Math
 
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
+
+## General Type
+
+- **[4 Median of Two Sorted Arrays](/General/4.md)**
