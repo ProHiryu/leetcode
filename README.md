@@ -16,6 +16,7 @@ record code and solutions on leetcode
 
 ### traditional_DP
 
+- **[10 Regular Expression Matching](/DP/traditionalDP/10.md)**
 - [664 Strange Printer](/DP/traditionalDP/664.md)
 - **[688 Knight Probability in Chessboard](/DP/traditionalDP/688.md)**
 - **[691 Stickers to Spell Word](/DP/traditionalDP/691.md)**
