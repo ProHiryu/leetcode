@@ -21,6 +21,7 @@ record code and solutions on leetcode
 - **[691 Stickers to Spell Word](/DP/traditionalDP/691.md)**
 - **[712 Minimum ASCII Delete Sum for Two Strings](/DP/traditionalDP/712.md)**
 - [764 Largest Plus Sign](/DP/traditionalDP/764.md)
+- [790 Domino and Tromino Tiling](/DP/traditionalDP/790.md)
 - [808 Soup Servings](/DP/traditionalDP/808.md)
 - **[813 Largest Sum of Averages](/DP/traditionalDP/813.md)**
 - [818 Race Car](/DP/traditionalDP/818.md)
