@@ -25,6 +25,7 @@ record code and solutions on leetcode
 - **[813 Largest Sum of Averages](/DP/traditionalDP/813.md)**
 - [818 Race Car](/DP/traditionalDP/818.md)
 - **[887 Super Egg Drop](/DP/traditionalDP/887.md)**
+- [898 Bitwise ORs of Subarrays](/DP/traditionalDP/898.md)
 
 ### difference_DP
 
