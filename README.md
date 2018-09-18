@@ -50,3 +50,7 @@ record code and solutions on leetcode
 ## Heap
 
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
+
+## Math
+
+- **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
