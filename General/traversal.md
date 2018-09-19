@@ -142,3 +142,32 @@ class Solution:
         
         return res[::-1]
 ```
+
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def postorderTraversal(self, root):
+        res = []
+        stack = [root]
+        stack_final = []
+        
+        while stack:
+            root = stack.pop()
+            stack_final.append(root)
+            if root.left:
+                stack.append(root.left)
+            if root.right:
+                stack.append(root.right)
+        
+        while stack_final:
+            res.append(stack_final.pop().val)
+        
+        return res
+```
