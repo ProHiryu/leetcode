@@ -102,13 +102,19 @@ class Solution:
 #         self.right = None
 
 class Solution:
-    def __init__(self):
-        self.res = []
-        
     def preorderTraversal(self, root):
-        self.res.append(root.val)
-        self.preorderTraversal(root.left)
-        self.preorderTraversal(root.right)
+        res = []
+        stack = []
+        
+        while root or stack:
+            if root:
+                res.append(root.val)
+                stack.append(root.right)
+                root = root.left
+            else:
+                root = stack.pop()
+                
+        return res
 ```
 
 ### Postorder
@@ -122,11 +128,17 @@ class Solution:
 #         self.right = None
 
 class Solution:
-    def __init__(self):
-        self.res = []
-        
     def postorderTraversal(self, root):
-        self.postorderTraversal(root.left)
-        self.postorderTraversal(root.right)
-        self.res.append(root.val)
+        res = []
+        stack = []
+        
+        while root or stack:
+            if root:
+                res.append(root.val)
+                stack.append(root.left)
+                root = root.right
+            else:
+                root = stack.pop()
+        
+        return res[::-1]
 ```
