@@ -12,8 +12,8 @@
 
 ### multi_var_DP
 
-- [801 Minimum Swaps To Make Sequences Increasing](/DP/multivarDP/801.md)
 - **[91 Decode Ways](/DP/multivarDP/91.md)**
+- [801 Minimum Swaps To Make Sequences Increasing](/DP/multivarDP/801.md)
 
 ### traditional_DP
 
