@@ -67,3 +67,4 @@
 - **[53 Maximum Subarray](/General/53.md)**
 - **[76 Minimum Window Substring](/General/76.md)**
 - **[Tree Traversal](/General/traversal.md)**
+- **[96 Unique Binary Search Trees](/General/96.md)**
