@@ -41,6 +41,7 @@
 
 - **[19 Remove Nth Node From End of List](/TP/19.md)**
 - **[61 Rotate List](/TP/61.md)**
+- [86 Partition List](/TP/86.md)
 - **[838 Push Dominoes](/TP/838.md)**
 
 ## BFS
