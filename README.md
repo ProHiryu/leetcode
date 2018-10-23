@@ -43,6 +43,7 @@
 - **[61 Rotate List](/TP/61.md)**
 - [86 Partition List](/TP/86.md)
 - **[141 Linked List Cycle](/TP/141.md)**
+- **[142 Linked List Cycle 2](/TP/142.md)**
 - **[838 Push Dominoes](/TP/838.md)**
 
 ## BFS
