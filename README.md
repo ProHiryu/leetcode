@@ -46,6 +46,7 @@
 - **[142 Linked List Cycle 2](/TP/142.md)**
 - **[234 Palindrome Linked List](/TP/234.md)**
 - [344 Reverse String](/TP/344.md)
+- **[345 Reverse Vowels of a String](/TP/345.md)(re.sub)**
 - **[838 Push Dominoes](/TP/838.md)**
 
 ## BFS
