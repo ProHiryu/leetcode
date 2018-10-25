@@ -51,6 +51,7 @@
 - [567 Permutation in String](/TP/567.md)
 - **[763 Partition Labels](/TP/763.md)**
 - [826 Most Profit Assigning Work](/TP/826.md)
+- **[828 Unique Letter String](/TP/828.md)**
 - **[838 Push Dominoes](/TP/838.md)**
 
 ## BFS
