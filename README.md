@@ -48,6 +48,7 @@
 - [344 Reverse String](/TP/344.md)
 - **[345 Reverse Vowels of a String](/TP/345.md)(re.sub)**
 - [524 Longest Word in Dictionary through Deleting](/TP/524.md)
+- [567 Permutation in String](/TP/567.md)
 - **[838 Push Dominoes](/TP/838.md)**
 
 ## BFS
