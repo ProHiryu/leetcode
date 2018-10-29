@@ -76,6 +76,10 @@
 - [2 Add Two Numbers](/Math/2.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
+## String
+
+- [6 ZigZag Conversion](/String/6.md)
+
 ## Palindrome
 
 - [125 Valid Palindrome](/Palindrome/125.md)
