@@ -79,6 +79,7 @@
 ## String
 
 - [6 ZigZag Conversion](/String/6.md)
+- [7 Reverse Integer](/String/7.md)
 
 ## Palindrome
 
