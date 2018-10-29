@@ -80,6 +80,7 @@
 
 - [6 ZigZag Conversion](/String/6.md)
 - [7 Reverse Integer](/String/7.md)
+- [8 String to Integer (atoi)](/String/8.md)
 
 ## Palindrome
 
