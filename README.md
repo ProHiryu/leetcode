@@ -73,6 +73,7 @@
 
 ## Math
 
+- [2 Add Two Numbers](/Math/2.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## Palindrome
