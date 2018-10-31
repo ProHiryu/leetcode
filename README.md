@@ -85,6 +85,7 @@
 ## Palindrome
 
 - [125 Valid Palindrome](/Palindrome/125.md)
+- [8 Palindrome Number](/Palindrome/8.md)
 
 ## General Type
 
