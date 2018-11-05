@@ -75,6 +75,7 @@
 
 - [2 Add Two Numbers](/Math/2.md)
 - [12 Integer to Roman](/Math/12.md)
+- [13 Roman to Integer](/Math/13.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
