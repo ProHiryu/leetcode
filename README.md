@@ -86,6 +86,10 @@
 - [14 Longest Common Prefix](/String/14.md)
 - **[17 Letter Combinations of a Phone Number](/String/17.md)**
 
+## Linked List
+
+- [21 Merge Two Sorted Lists](/LL/21.md)
+
 ## Palindrome
 
 - [125 Valid Palindrome](/Palindrome/125.md)
