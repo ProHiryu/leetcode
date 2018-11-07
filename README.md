@@ -88,6 +88,7 @@
 - **[17 Letter Combinations of a Phone Number](/String/17.md)**
 - **[22 Generate Parentheses](/String/22.md)**
 - [38 Count and Say](/String/38.md)(itertools.groupby)
+- **[43 Multiply Strings](/String/43.md)**
 
 ## Linked List
 
