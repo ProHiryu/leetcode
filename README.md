@@ -81,6 +81,7 @@
 - [13 Roman to Integer](/Math/13.md)
 - **[29 Divide Two Integers](/Math/29.md)**
 - [50 Pow(x,n)](/Math/50.md)
+- [60 Permutation Sequence](/Math/60.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
