@@ -93,6 +93,7 @@
 - **[22 Generate Parentheses](/String/22.md)**
 - [38 Count and Say](/String/38.md)(itertools.groupby)
 - **[43 Multiply Strings](/String/43.md)**
+- [58 Length of Last World](/String/58.md)
 
 ## Linked List
 
