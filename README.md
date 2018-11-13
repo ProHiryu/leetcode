@@ -66,6 +66,7 @@
 ### traditional_DFS
 
 - [46 Permutations](/DFS/traditionalDFS/46.md)
+- **[51 N Queens](/DFS/traditionalDFS/51.md)**
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
