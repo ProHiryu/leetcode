@@ -82,6 +82,7 @@
 - **[29 Divide Two Integers](/Math/29.md)**
 - [50 Pow(x,n)](/Math/50.md)
 - [60 Permutation Sequence](/Math/60.md)
+- [67 Add Binary](/Math/67.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -95,7 +96,7 @@
 - [38 Count and Say](/String/38.md)(itertools.groupby)
 - **[43 Multiply Strings](/String/43.md)**
 - [58 Length of Last World](/String/58.md)
-- [60 Valid Number](/String/60.md)(DFA)
+- [65 Valid Number](/String/65.md)(DFA)
 
 ## Linked List
 
