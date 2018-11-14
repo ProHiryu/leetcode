@@ -95,6 +95,7 @@
 - [38 Count and Say](/String/38.md)(itertools.groupby)
 - **[43 Multiply Strings](/String/43.md)**
 - [58 Length of Last World](/String/58.md)
+- [60 Valid Number](/String/60.md)(DFA)
 
 ## Linked List
 
