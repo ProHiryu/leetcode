@@ -83,6 +83,7 @@
 - [50 Pow(x,n)](/Math/50.md)
 - [60 Permutation Sequence](/Math/60.md)
 - [67 Add Binary](/Math/67.md)
+- **[69 Sqrt(x)](/Math/69.md)**
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
