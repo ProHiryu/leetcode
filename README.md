@@ -75,6 +75,10 @@
 
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
+## Stack
+
+- **[84 Largest Rectangle in Histogram](/Stack/84.md)**
+
 ## Math
 
 - [2 Add Two Numbers](/Math/2.md)
