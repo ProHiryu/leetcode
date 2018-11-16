@@ -97,6 +97,7 @@
 - **[43 Multiply Strings](/String/43.md)**
 - [58 Length of Last World](/String/58.md)
 - [65 Valid Number](/String/65.md)(DFA)
+- [68 Text Justification](/String/68.md)
 
 ## Linked List
 
