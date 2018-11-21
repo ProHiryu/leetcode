@@ -117,6 +117,7 @@
 - **[25 Reverse Nodes in k-Group](/LL/25.md)(reverse a list)**
 - [82 Remove Duplicates from Sorted List ii](/LL/82.md)
 - [83 Remove Duplicates from Sorted List](/LL/83.md)
+- **[92 Reverse Linked List II](/LL/92.md)**
 
 ## Palindrome
 
