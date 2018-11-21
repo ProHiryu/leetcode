@@ -73,6 +73,7 @@
 - **[51 N Queens](/DFS/traditionalDFS/51.md)**
 - [52 N Queens ii](/DFS/traditionalDFS/52.md)
 - [77 Combinations](/DFS/traditionalDFS/77.md)
+- [93 Restore IP Addresses](/DFS/traditionalDFS/93.md)
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
