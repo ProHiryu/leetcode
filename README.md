@@ -37,6 +37,10 @@
 - [873 Length of Longest Fibonacci Subsequence](/DP/differenceDP/873.md)
 - [877 Stone Game](/DP/differenceDP/877.md)
 
+## Backtracking
+
+- **[89 Gray Code](/BT/89.md)**
+
 ## Two Pointers
 
 - **[19 Remove Nth Node From End of List](/TP/19.md)**
