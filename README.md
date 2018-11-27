@@ -130,6 +130,7 @@
 ## Greedy
 
 - **[134 Gas Station](/Greedy/134.md)**(solution condition)
+- **[135 Candy](/Greedy/135.md)**(two scan)
 
 ## General Type
 
