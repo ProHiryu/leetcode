@@ -127,6 +127,10 @@
 - [125 Valid Palindrome](/Palindrome/125.md)
 - [8 Palindrome Number](/Palindrome/8.md)
 
+## Greedy
+
+- **[134 Gas Station](/Greedy/134.md)**(solution condition)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
