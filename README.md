@@ -134,6 +134,10 @@
 - **[134 Gas Station](/Greedy/134.md)**(solution condition)
 - **[135 Candy](/Greedy/135.md)**(two scan)
 
+## Design
+
+- **[LRU Cache](/Design/146.md)**(collections.OrderedDict)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
