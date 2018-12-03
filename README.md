@@ -113,6 +113,7 @@
 - [58 Length of Last World](/String/58.md)
 - [65 Valid Number](/String/65.md)(DFA)
 - [68 Text Justification](/String/68.md)
+- [151 Reverse Words in a String](/String/151.md)
 
 ## Linked List
 
