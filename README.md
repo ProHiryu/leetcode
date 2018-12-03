@@ -124,6 +124,7 @@
 - **[92 Reverse Linked List II](/LL/92.md)**
 - **[143 Reorder List](/LL/143.md)**(reverse and merge lists)
 - [147 Insertion Sort List](/LL/147.md)
+- **[148 Sort List](/LL/148.md)**(merge sort)
 
 ## Palindrome
 
