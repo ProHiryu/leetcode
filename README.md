@@ -99,6 +99,7 @@
 - **[69 Sqrt(x)](/Math/69.md)**
 - **[137 Single Number II](/Math/137.md)**
 - **[168 Excel Sheet Column Title](/Math/168.md)**
+- [171 Excel Sheet Column Number](/Math/171.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
