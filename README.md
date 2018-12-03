@@ -140,7 +140,11 @@
 
 ## Design
 
-- **[LRU Cache](/Design/146.md)**(collections.OrderedDict)
+- **[146 LRU Cache](/Design/146.md)**(collections.OrderedDict)
+
+## Sort
+
+- **[164 Maximum Gap](/Sort/164.md)(bucket sorting)**
 
 ## General Type
 
