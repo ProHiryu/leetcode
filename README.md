@@ -114,6 +114,7 @@
 - [65 Valid Number](/String/65.md)(DFA)
 - [68 Text Justification](/String/68.md)
 - [151 Reverse Words in a String](/String/151.md)
+- [165 Compare Version Numbers](/String/165.md)
 
 ## Linked List
 
