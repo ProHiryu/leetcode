@@ -153,6 +153,7 @@
 ## SQL
 
 - [175 Combine Two Tables](/SQL/175.md)
+- **[176 Second Highest Salary](/SQL/176.md)**
 
 ## General Type
 
