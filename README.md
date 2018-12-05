@@ -157,6 +157,7 @@
 - **[176 Second Highest Salary](/SQL/176.md)**
 - [177 Nth Highest Salary](/SQL/177.md)
 - [178 Rank Scores](/SQL/178.md)
+- **[180 Consecutive Numbers](/SQL/180.md)**(Variables)
 
 ## General Type
 
