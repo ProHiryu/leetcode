@@ -150,6 +150,10 @@
 
 - **[164 Maximum Gap](/Sort/164.md)(bucket sorting)**
 
+## SQL
+
+- [175 Combine Two Tables](/SQL/175.md)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
