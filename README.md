@@ -159,6 +159,10 @@
 - [178 Rank Scores](/SQL/178.md)
 - **[180 Consecutive Numbers](/SQL/180.md)**(Variables)
 
+## BIT
+
+- [190 Reverse Bits](/Bit/190.md)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
