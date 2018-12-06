@@ -164,6 +164,10 @@
 - [190 Reverse Bits](/BIT/190.md)
 - [191 Number of 1 Bits](/BIT/191.md)
 
+## Bash
+
+- [192 Word Frequency](/Bash/192.md)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
