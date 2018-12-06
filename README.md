@@ -167,6 +167,7 @@
 ## Bash
 
 - [192 Word Frequency](/Bash/192.md)
+- [193 Valid Phone Numbers](/Bash/193.md)
 
 ## General Type
 
