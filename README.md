@@ -161,7 +161,8 @@
 
 ## BIT
 
-- [190 Reverse Bits](/Bit/190.md)
+- [190 Reverse Bits](/BIT/190.md)
+- [191 Number of 1 Bits](/BIT/191.md)
 
 ## General Type
 
