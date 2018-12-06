@@ -168,6 +168,7 @@
 
 - [192 Word Frequency](/Bash/192.md)
 - [193 Valid Phone Numbers](/Bash/193.md)
+- **[194 Transpose File](/Bash/194.md)**(awk c-like)
 
 ## General Type
 
