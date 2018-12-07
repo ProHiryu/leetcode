@@ -119,6 +119,7 @@
 - [68 Text Justification](/String/68.md)
 - [151 Reverse Words in a String](/String/151.md)
 - [165 Compare Version Numbers](/String/165.md)
+- **[214 Shortest Palindrome](/String/214.md)**(KMS)
 
 ## Linked List
 
