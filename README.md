@@ -182,6 +182,10 @@
 - **[207 Course Schedule](/Graph/207.md)**(BFS + DFS + Topological Sorting)
 - **[210 Course Schedule II](/Graph/210.md)**(Topological Sorting on Youtube)
 
+## Trie
+
+- **[212 Word Search II](/Trie/212.md)**
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
