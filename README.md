@@ -156,6 +156,7 @@
 
 - **[164 Maximum Gap](/Sort/164.md)(bucket sorting)**
 - **[179 Largest Number](/Sort/179.md)**(Comparable, python.sort())
+- **[215 Kth Largest Element in an Array](/Sort/215.md)(Quick Select)**
 
 ## SQL
 
