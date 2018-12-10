@@ -102,6 +102,7 @@
 - **[168 Excel Sheet Column Title](/Math/168.md)**
 - [171 Excel Sheet Column Number](/Math/171.md)
 - [172 Factorial Trailing Zeroes](/Math/172.md)
+- [223 Rectangle Area](/Math/223.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
