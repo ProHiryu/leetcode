@@ -174,6 +174,7 @@
 - [190 Reverse Bits](/BIT/190.md)
 - [191 Number of 1 Bits](/BIT/191.md)
 - **[201 Bitwise AND of Numbers Range](/BIT/201.md)**
+- [231 Power of Two](/BIT/231.md)
 
 ## Bash
 
