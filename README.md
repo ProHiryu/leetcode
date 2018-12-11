@@ -87,6 +87,7 @@
 
 - **[84 Largest Rectangle in Histogram](/Stack/84.md)**
 - **[85 Maximal Rectangle](/Stack/85.md)**
+- **[227 Basic Calculator II](/Stack/227.md)**
 
 ## Math
 
