@@ -105,6 +105,7 @@
 - [172 Factorial Trailing Zeroes](/Math/172.md)
 - [223 Rectangle Area](/Math/223.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
+- [233 Number of Digit One](/Math/233.md)
 
 ## String
 
