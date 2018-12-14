@@ -194,6 +194,10 @@
 
 - **[212 Word Search II](/Trie/212.md)**
 
+## Binary Search
+
+- **[240 Search a 2D Matrix II](/BS/240.md)**(Bi-Binary-Search)
+
 ## General Type
 
 - **[4 Median of Two Sorted Arrays](/General/4.md)**
