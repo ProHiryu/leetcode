@@ -41,6 +41,10 @@
 
 - **[89 Gray Code](/BT/89.md)**
 
+## Divide and Conquer
+
+- **[241 Different Ways to Add Parentheses](/DAC/241.md)**
+
 ## Two Pointers
 
 - **[19 Remove Nth Node From End of List](/TP/19.md)**
