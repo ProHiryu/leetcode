@@ -2,6 +2,10 @@
 
 > record code and solutions on leetcode
 
+## Hash Table
+
+- **[274 H-Index](/HT/274.md)**
+
 ## Dynamic Programming
 
 ### Knapsack
