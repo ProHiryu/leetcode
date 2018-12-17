@@ -209,6 +209,7 @@
 ## Binary Search
 
 - **[240 Search a 2D Matrix II](/BS/240.md)**(Bi-Binary-Search)
+- [278 First Bad Version](/BS/278.md)
 
 ## General Type
 
