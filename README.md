@@ -5,6 +5,7 @@
 ## Hash Table
 
 - **[274 H-Index](/HT/274.md)**
+- **[275 H-Index II](/HI/274md)**
 
 ## Dynamic Programming
 
