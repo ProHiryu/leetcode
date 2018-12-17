@@ -73,6 +73,7 @@
 ## BFS
 
 - **[130 Surrounded Regions](/BFS/130.md)**(BFS)
+- **[279 Perfect Squares](/BFS/279.md)(minimum suited condition)**
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
