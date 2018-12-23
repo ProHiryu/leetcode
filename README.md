@@ -167,6 +167,7 @@
 - **[146 LRU Cache](/Design/146.md)**(collections.OrderedDict)
 - **[208 Implement Trie (Prefix Tree)](/Design/208.md)**
 - **[211 Add and Search Word - Data structure design](/Graph/211.md)**
+- [284 Peeking Iterator](/Design/284.md)
 
 ## Sort
 
