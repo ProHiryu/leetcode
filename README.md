@@ -45,6 +45,7 @@
 ## Backtracking
 
 - **[89 Gray Code](/BT/89.md)**
+- [292 Nim Game](/BT/292.md)
 
 ## Divide and Conquer
 
