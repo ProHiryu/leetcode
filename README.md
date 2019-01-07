@@ -88,7 +88,7 @@
 - [93 Restore IP Addresses](/DFS/traditionalDFS/93.md)
 - **[109 Convert Sorted List to Binary Search Tree](/DFS/traditionalDFS/109.md)**(how to find middle of a tree)
 - [200 Number of Islands](/DFS/traditionalDFS/200.md)
-- [301 Remove Invalid Parentheses](/DFS/traditionalDFS/301.md)
+- ***[301 Remove Invalid Parentheses](/DFS/traditionalDFS/301.md)***
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
