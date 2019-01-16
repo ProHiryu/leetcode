@@ -95,6 +95,7 @@
 ## Heap
 
 - **[239 Sliding Window Maximum](/Heap/239.md)**
+- **[313 Super Ugly Number](/Heap/313.md)**
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
