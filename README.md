@@ -181,6 +181,7 @@
 - **[179 Largest Number](/Sort/179.md)**(Comparable, python.sort())
 - **[215 Kth Largest Element in an Array](/Sort/215.md)(Quick Select)**
 - **[220 Contains Duplicate III](/Sort/220.md)(Bucket Sorting)**
+- **[315 Count of Smaller Numbers After Self](/Sort/315.md)**
 
 ## SQL
 
