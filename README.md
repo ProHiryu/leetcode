@@ -170,6 +170,7 @@
 - **[134 Gas Station](/Greedy/134.md)**(solution condition)
 - **[135 Candy](/Greedy/135.md)**(two scan)
 - [321 Create Maximum Number](/Greedy/321.md)
+- **[330 Patching Array](/Greedy/330.md)**
 
 ## Design
 
