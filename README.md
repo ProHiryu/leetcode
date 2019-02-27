@@ -124,6 +124,7 @@
 - [258 Add Digits](/Math/258.md)
 - [319 Bulb Switcher](/Math/319.md)
 - [326 Power of Three](/Math/326.md)
+- [335 Self Crossing](/Math/335.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
