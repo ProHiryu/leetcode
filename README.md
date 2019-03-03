@@ -234,6 +234,7 @@
 - [278 First Bad Version](/BS/278.md)
 - **[300 Longest Increasing Subsequence](/BS/278.md)**
 - [334 Increasing Triplet Subsequence](/BS/334.md)
+- **[352 Data Stream as Disjoint Intervals](/BS/352.md)**
 
 ## General Type
 
