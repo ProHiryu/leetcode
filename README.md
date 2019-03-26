@@ -232,6 +232,10 @@
 
 - **[212 Word Search II](/Trie/212.md)**
 
+## Reservoir Sampling
+
+- **[382 Linked List Random Node](/RS/382.md)**
+
 ## Binary Search
 
 - **[240 Search a 2D Matrix II](/BS/240.md)**(Bi-Binary-Search)
