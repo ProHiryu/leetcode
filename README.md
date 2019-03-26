@@ -148,6 +148,7 @@
 - [165 Compare Version Numbers](/String/165.md)
 - **[214 Shortest Palindrome](/String/214.md)**(KMS)
 - [273 Integer to English Words](/String/273.md)
+- [383 Ransom Note](/String/383.md)(collections.Counter)
 
 ## Linked List
 
