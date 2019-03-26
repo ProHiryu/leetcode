@@ -185,6 +185,7 @@
 - [284 Peeking Iterator](/Design/284.md)
 - **[295 Find Median from Data Stream](/Design/295.md)**(two heap)
 - **[307 Range Sum Query - Mutable](/Design/307.md)(Binary Index Tree)**
+- [384 Shuffle an Array](/Design/384.md)(random.shuffle)
 
 ## Sort
 
