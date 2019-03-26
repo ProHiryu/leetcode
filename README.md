@@ -91,6 +91,7 @@
 - [200 Number of Islands](/DFS/traditionalDFS/200.md)
 - ***[301 Remove Invalid Parentheses](/DFS/traditionalDFS/301.md)***
 - ***[329 Longest Increasing Path in a Matrix](/DFS/traditionalDFS/329.md)(DP + DFS + Memoization)***
+- **[386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)**
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
