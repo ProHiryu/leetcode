@@ -131,6 +131,7 @@
 - **[365 Water and Jug Problem](/Math/365.md)**
 - **[367 Valid Perfect Square](/Math/367.md)**
 - [372 Super Pow](/Math/372.md)
+- [390 Elimination Game](/Math/390.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
