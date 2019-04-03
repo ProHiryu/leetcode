@@ -153,6 +153,7 @@
 - **[214 Shortest Palindrome](/String/214.md)**(KMS)
 - [273 Integer to English Words](/String/273.md)
 - [383 Ransom Note](/String/383.md)(collections.Counter)
+- **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
 
