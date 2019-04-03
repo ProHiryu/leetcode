@@ -133,6 +133,7 @@
 - [372 Super Pow](/Math/372.md)
 - [390 Elimination Game](/Math/390.md)
 - **[391 Perfect Rectangle](Math/391.md)**
+- **[396 Rotate Function](/Math/396.md)**
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
