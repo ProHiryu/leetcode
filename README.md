@@ -219,6 +219,7 @@
 - **[260 Single Number III](/BIT/260.md)(XOR find diff)**
 - **[318 Maximum Product of Word Lengths](/BIT/318.md)(character not same)**
 - **[342 Power of Four](/BIT/342.md)**
+- **[393 UTF-8 Validation](/BIT/393.md)**
 
 ## Bash
 
