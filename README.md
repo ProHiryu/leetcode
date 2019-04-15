@@ -237,6 +237,7 @@
 - **[210 Course Schedule II](/Graph/210.md)**(Topological Sorting on Youtube)
 - **[310 Minimum Height Trees](/Graph/310.md)(BFS + Leaves)**
 - ***[332 Reconstruct Itinerary](/Graph/332.md)(DFS + Greedy Eulerian Path)***
+- **[399 Evaluate Division](/Graph/399.md)**
 
 ## Trie
 
@@ -245,6 +246,7 @@
 ## Reservoir Sampling
 
 - **[382 Linked List Random Node](/RS/382.md)**
+- **[398 Random Pick Index](/RS/398.md)**
 
 ## Binary Search
 
