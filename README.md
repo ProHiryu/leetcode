@@ -185,6 +185,7 @@
 - **[135 Candy](/Greedy/135.md)**(two scan)
 - [321 Create Maximum Number](/Greedy/321.md)
 - **[330 Patching Array](/Greedy/330.md)**
+- **[406 Queue Reconstruction by Height](/Greedy/406.md)(sort & insert)**
 
 ## Design
 
@@ -225,6 +226,7 @@
 - **[342 Power of Four](/BIT/342.md)**
 - **[393 UTF-8 Validation](/BIT/393.md)**
 - **[397 Integer Replacement](/BIT/397.md)**
+- [405 Convert a Number to Hexadecimal](/BIT/405.md)
 
 ## Bash
 
