@@ -101,6 +101,7 @@
 - **[239 Sliding Window Maximum](/Heap/239.md)**
 - **[313 Super Ugly Number](/Heap/313.md)**
 - **[373 Find K Pairs with Smallest Sums](/Heap/373.md)**
+- **[407 Trapping Rain Water II](/Heap/407.md)**
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
@@ -156,6 +157,8 @@
 - **[214 Shortest Palindrome](/String/214.md)**(KMS)
 - [273 Integer to English Words](/String/273.md)
 - [383 Ransom Note](/String/383.md)(collections.Counter)
+- [412 Fizz Buzz](/String/412.md)
+- [415 Add Strings](/String/415.md)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
