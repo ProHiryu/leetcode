@@ -273,4 +273,4 @@
 - **[Tree Traversal](/General/traversal.md)**
 - **[96 Unique Binary Search Trees](/General/96.md)**
 - **[Permutation](/General/permutation.md)**
-- **[371 Sum of Two Integers](bit manipulation)**
+- **[371 Sum of Two Integers](/General/371.md)(bit manipulation)**
