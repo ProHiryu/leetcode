@@ -48,6 +48,7 @@
 - **[89 Gray Code](/BT/89.md)**
 - [292 Nim Game](/BT/292.md)
 - **[306 Additive Number](/BT/306.md)**
+- **[419 Battleships in a Board](/BT/419.md)**
 
 ## Divide and Conquer
 
@@ -94,6 +95,7 @@
 - ***[329 Longest Increasing Path in a Matrix](/DFS/traditionalDFS/329.md)(DP + DFS + Memoization)***
 - **[386 Lexicographical Numbers](/DFS/traditionalDFS/386.md)**
 - **[401 Binary Watch](/DFS/traditionalDFS/401.md)**
+- **[417 Pacific Atlantic Water Flow](/DFS/traditionalDFS/417.md)**
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
