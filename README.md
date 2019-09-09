@@ -139,6 +139,7 @@
 - **[391 Perfect Rectangle](Math/391.md)**
 - **[396 Rotate Function](/Math/396.md)**
 - **[400 Nth Digit](/Math/400.md)**
+- [420 Strong Password Checker](/Math/420.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
