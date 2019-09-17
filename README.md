@@ -233,6 +233,7 @@
 - **[393 UTF-8 Validation](/BIT/393.md)**
 - **[397 Integer Replacement](/BIT/397.md)**
 - [405 Convert a Number to Hexadecimal](/BIT/405.md)
+- **[421 Maximum XOR of Two Numbers in an Array](/BIT/421.md)**
 
 ## Bash
 
