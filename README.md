@@ -49,6 +49,7 @@
 - [292 Nim Game](/BT/292.md)
 - **[306 Additive Number](/BT/306.md)**
 - **[419 Battleships in a Board](/BT/419.md)**
+- [427 Construct Quad Tree](/BT/427.md)
 
 ## Divide and Conquer
 
@@ -64,6 +65,7 @@
 - **[234 Palindrome Linked List](/TP/234.md)**
 - [344 Reverse String](/TP/344.md)
 - **[345 Reverse Vowels of a String](/TP/345.md)(re.sub)**
+- **[424 Longest Repeating Character Replacement](/TP/424.md)**
 - [524 Longest Word in Dictionary through Deleting](/TP/524.md)
 - [567 Permutation in String](/TP/567.md)
 - **[763 Partition Labels](/TP/763.md)**
@@ -78,6 +80,7 @@
 
 - **[130 Surrounded Regions](/BFS/130.md)**(BFS)
 - **[279 Perfect Squares](/BFS/279.md)(minimum suited condition)**
+- [429 N-ary Tree Level Order Traversal](/BFS/429.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
