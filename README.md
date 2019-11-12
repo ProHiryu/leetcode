@@ -81,6 +81,7 @@
 - **[130 Surrounded Regions](/BFS/130.md)**(BFS)
 - **[279 Perfect Squares](/BFS/279.md)(minimum suited condition)**
 - [429 N-ary Tree Level Order Traversal](/BFS/429.md)
+- **[433 Minimum Genetic Mutation](/BFS/433.md)**
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
