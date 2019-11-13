@@ -167,6 +167,7 @@
 - [383 Ransom Note](/String/383.md)(collections.Counter)
 - [412 Fizz Buzz](/String/412.md)
 - [415 Add Strings](/String/415.md)
+- [434 Number of Segments in a String](/String/434.md)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
@@ -198,6 +199,7 @@
 - [321 Create Maximum Number](/Greedy/321.md)
 - **[330 Patching Array](/Greedy/330.md)**
 - **[406 Queue Reconstruction by Height](/Greedy/406.md)(sort & insert)**
+- **[435 Non-overlapping Intervals](/Greedy/435.md)**
 
 ## Design
 
@@ -272,6 +274,7 @@
 - **[300 Longest Increasing Subsequence](/BS/278.md)**
 - [334 Increasing Triplet Subsequence](/BS/334.md)
 - **[352 Data Stream as Disjoint Intervals](/BS/352.md)**
+- [436 Find Right Interval](/BS/436.md)
 
 ## General Type
 
