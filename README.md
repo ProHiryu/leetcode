@@ -170,6 +170,7 @@
 - [412 Fizz Buzz](/String/412.md)
 - [415 Add Strings](/String/415.md)
 - [434 Number of Segments in a String](/String/434.md)
+- [443 String Compression](/String/443.md)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
@@ -188,6 +189,7 @@
 - **[206 Reverse Linked List](/LL/206.md)**(Standard Reverse)
 - **[328 Odd Even Linked List](/LL/328.md)**
 - **[430 Flatten a Multilevel Doubly Linked List](/LL/430.md)**
+- [445 Add Two Numbers II](/LL/445.md)
 
 ## Palindrome
 
