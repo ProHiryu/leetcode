@@ -171,6 +171,7 @@
 - [415 Add Strings](/String/415.md)
 - [434 Number of Segments in a String](/String/434.md)
 - [443 String Compression](/String/443.md)
+- [482 License Key Formatting](/String/482.md)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
