@@ -66,6 +66,7 @@
 - [344 Reverse String](/TP/344.md)
 - **[345 Reverse Vowels of a String](/TP/345.md)(re.sub)**
 - **[424 Longest Repeating Character Replacement](/TP/424.md)**
+- [452 Minimum Number of Arrows to Burst Balloons](/TP/452.md)
 - [524 Longest Word in Dictionary through Deleting](/TP/524.md)
 - [567 Permutation in String](/TP/567.md)
 - **[763 Partition Labels](/TP/763.md)**
@@ -147,6 +148,7 @@
 - [420 Strong Password Checker](/Math/420.md)
 - [423 Reconstruct Original Digits from English](/Math/423.md)
 - [441 Arranging Coins](/Math/441.md)
+- [453 Minimum Moves to Equal Array Elements](/Math/453.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
