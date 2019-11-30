@@ -207,6 +207,7 @@
 - **[330 Patching Array](/Greedy/330.md)**
 - **[406 Queue Reconstruction by Height](/Greedy/406.md)(sort & insert)**
 - **[435 Non-overlapping Intervals](/Greedy/435.md)**
+- [455 Assign Cookies](/Greedy/455.md)
 
 ## Design
 
