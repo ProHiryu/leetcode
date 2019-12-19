@@ -150,6 +150,7 @@
 - [423 Reconstruct Original Digits from English](/Math/423.md)
 - [441 Arranging Coins](/Math/441.md)
 - [453 Minimum Moves to Equal Array Elements](/Math/453.md)
+- [458 Poor Pigs](/Math/458.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -174,6 +175,7 @@
 - [415 Add Strings](/String/415.md)
 - [434 Number of Segments in a String](/String/434.md)
 - [443 String Compression](/String/443.md)
+- **[459 Repeated Substring Pattern](/String/459.md)**
 - [482 License Key Formatting](/String/482.md)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
