@@ -103,6 +103,7 @@
 - **[386 Lexicographical Numbers](/DFS/traditionalDFS/386.md)**
 - **[401 Binary Watch](/DFS/traditionalDFS/401.md)**
 - **[417 Pacific Atlantic Water Flow](/DFS/traditionalDFS/417.md)**
+- **[473 Matchsticks to Square](/DFS/traditionalDFS/473.md)**
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
@@ -290,6 +291,7 @@
 - [334 Increasing Triplet Subsequence](/BS/334.md)
 - **[352 Data Stream as Disjoint Intervals](/BS/352.md)**
 - [436 Find Right Interval](/BS/436.md)
+- [475 Heaters](/BS/475.md)
 
 ## General Type
 
