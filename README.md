@@ -258,6 +258,8 @@
 - [405 Convert a Number to Hexadecimal](/BIT/405.md)
 - **[421 Maximum XOR of Two Numbers in an Array](/BIT/421.md)**
 - [461 Hamming Distance](/BIT/461.md)(bin)
+- [476 Number Complement](/BIT/476.md)
+- [477 Total Hamming Distance](/BIT/477.md)(Hamming Distance)
 
 ## Bash
 
