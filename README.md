@@ -105,6 +105,8 @@
 - **[401 Binary Watch](/DFS/traditionalDFS/401.md)**
 - **[417 Pacific Atlantic Water Flow](/DFS/traditionalDFS/417.md)**
 - **[473 Matchsticks to Square](/DFS/traditionalDFS/473.md)**
+- **[488 Zuma Game](/DFS/traditionalDFS/488.md)**
+- ***[491 Increasing Subsequences](DFS/traditionalDFS/491.md)(Tuple instead of list)***
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
@@ -113,6 +115,8 @@
 - **[313 Super Ugly Number](/Heap/313.md)**
 - **[373 Find K Pairs with Smallest Sums](/Heap/373.md)**
 - **[407 Trapping Rain Water II](/Heap/407.md)**
+- **[502 IPO](/Heap/502.md)(Greedy)**
+- **[506 Relative Ranks](/Heap/506.md)**
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
@@ -155,6 +159,8 @@
 - [458 Poor Pigs](/Math/458.md)
 - **[462 Minimum Moves to Equal Array Elements II](/Math/462.md)**
 - **[470 Implement Rand10() Using Rand7()](/Math/470.md)(Rejective Sampling/RandN -> RandM)**
+- [481 Magical String](/Math/481.md)
+- [492 Construct the Rectangle](/Math/492.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -182,6 +188,7 @@
 - **[459 Repeated Substring Pattern](/String/459.md)**
 - [468 Validate IP Address](/String/468.md)
 - [482 License Key Formatting](/String/482.md)
+- [504 Base 7](/String/504.md)(Base 7)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
 
 ## Linked List
@@ -236,6 +243,7 @@
 - **[315 Count of Smaller Numbers After Self](/Sort/315.md)**
 - ***[324 Wiggle Sort II](/Sort/324.md)(Virtual Index)***
 - **[327 Count of Range Sum](/Sort/327.md)(Binary Search Tree, bisect)**
+- **[493 Reverse Pairs](/Sort/493.md)(Merge Sort for pairs)**
 
 ## SQL
 
@@ -307,3 +315,4 @@
 - **[96 Unique Binary Search Trees](/General/96.md)**
 - **[Permutation](/General/permutation.md)**
 - **[371 Sum of Two Integers](/General/371.md)(bit manipulation)**
+- [498 Diagonal Traverse](/General/498.md)
