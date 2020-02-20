@@ -161,6 +161,8 @@
 - **[470 Implement Rand10() Using Rand7()](/Math/470.md)(Rejective Sampling/RandN -> RandM)**
 - [481 Magical String](/Math/481.md)
 - [492 Construct the Rectangle](/Math/492.md)
+- [507 Perfect Number](/Math/507.md)
+- [509 Fibonacci Number](/Math/509.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
