@@ -14,6 +14,7 @@
 
 > [Defination](https://baike.baidu.com/item/背包问题/2416931?fr=aladdin)
 
+- ***[518 Coin Change 2](/DP/knapsack/518.md)(Coin Change)***
 - **[879 Profitable Schemes](/DP/knapsack/879.md)**
 
 ### multi_var_DP
@@ -50,6 +51,7 @@
 - **[306 Additive Number](/BT/306.md)**
 - **[419 Battleships in a Board](/BT/419.md)**
 - [427 Construct Quad Tree](/BT/427.md)
+- **[526 Beautiful Arrangement](/BT/526.md)**
 
 ## Divide and Conquer
 
@@ -107,6 +109,9 @@
 - **[473 Matchsticks to Square](/DFS/traditionalDFS/473.md)**
 - **[488 Zuma Game](/DFS/traditionalDFS/488.md)**
 - ***[491 Increasing Subsequences](DFS/traditionalDFS/491.md)(Tuple instead of list)***
+- **[529 Minesweeper](/DFS/traditionalDFS/529.md)**
+- **[530 Minimum Absolute Difference in BST](/DFS/traditionalDFS/530.md)(Inorder for BST)**
+- ***[542 01 Matrix](/DFS/traditionalDFS/542.md)***
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
@@ -163,6 +168,7 @@
 - [492 Construct the Rectangle](/Math/492.md)
 - [507 Perfect Number](/Math/507.md)
 - [509 Fibonacci Number](/Math/509.md)
+- [537 Complex Number Multiplication](/Math/537.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -192,6 +198,11 @@
 - [482 License Key Formatting](/String/482.md)
 - [504 Base 7](/String/504.md)(Base 7)
 - **[395 Longest Substring with At Least K Repeating Characters](/String/395.md)**
+- [520 Detect Capital](/String/520.md)
+- [521 Longest Uncommon Subsequence I](/String/521.md)
+- ***[522 Longest Uncommon Subsequence II](/String/522.md)(ALL - all)***
+- [539 Minimum Time Difference](/String/539.md)
+- [541 Reverse String II](/String/541.md)
 
 ## Linked List
 
@@ -305,6 +316,7 @@
 - **[352 Data Stream as Disjoint Intervals](/BS/352.md)**
 - [436 Find Right Interval](/BS/436.md)
 - [475 Heaters](/BS/475.md)
+- **[540 Single Element in a Sorted Array](/BS/540.md)**
 
 ## General Type
 
