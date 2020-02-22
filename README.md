@@ -112,6 +112,7 @@
 - **[529 Minesweeper](/DFS/traditionalDFS/529.md)**
 - **[530 Minimum Absolute Difference in BST](/DFS/traditionalDFS/530.md)(Inorder for BST)**
 - ***[542 01 Matrix](/DFS/traditionalDFS/542.md)***
+- ***[547 Friend Circles](/DFS/traditionalDFS/547.md)(Union Find)***
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
@@ -169,6 +170,8 @@
 - [507 Perfect Number](/Math/507.md)
 - [509 Fibonacci Number](/Math/509.md)
 - [537 Complex Number Multiplication](/Math/537.md)
+- [553 Optimal Division](/Math/553.md)
+- **[556 Next Greater Element III](/Math/556.md)(the next permutation)**
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
