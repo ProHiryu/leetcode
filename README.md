@@ -113,6 +113,7 @@
 - **[530 Minimum Absolute Difference in BST](/DFS/traditionalDFS/530.md)(Inorder for BST)**
 - ***[542 01 Matrix](/DFS/traditionalDFS/542.md)***
 - ***[547 Friend Circles](/DFS/traditionalDFS/547.md)(Union Find)***
+- [559 Maximum Depth of N-ary Tree](/DFS/traditionalDFS/559.md)
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 
 ## Heap
@@ -206,6 +207,7 @@
 - ***[522 Longest Uncommon Subsequence II](/String/522.md)(ALL - all)***
 - [539 Minimum Time Difference](/String/539.md)
 - [541 Reverse String II](/String/541.md)
+- [557 Reverse Words in a String III](/String/557.md)
 
 ## Linked List
 
