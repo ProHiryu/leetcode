@@ -25,6 +25,7 @@
 ### traditional_DP
 
 - **[10 Regular Expression Matching](/DP/traditionalDP/10.md)**
+- [583 Delete Operation for Two Strings](/DP/traditionalDP/583.md)
 - [664 Strange Printer](/DP/traditionalDP/664.md)
 - **[688 Knight Probability in Chessboard](/DP/traditionalDP/688.md)**
 - **[691 Stickers to Spell Word](/DP/traditionalDP/691.md)**
@@ -173,6 +174,8 @@
 - [537 Complex Number Multiplication](/Math/537.md)
 - [553 Optimal Division](/Math/553.md)
 - **[556 Next Greater Element III](/Math/556.md)(the next permutation)**
+- [592 Fraction Addition and Subtraction](/Math/592.md)**(next的活用)**
+- [593 Valid Square](/Math/593.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -231,6 +234,7 @@
 
 - [125 Valid Palindrome](/Palindrome/125.md)
 - [8 Palindrome Number](/Palindrome/8.md)
+- ***[564 Find the Closest Palindrome](/Palindrome/564.md)***
 
 ## Greedy
 
@@ -322,6 +326,11 @@
 - [436 Find Right Interval](/BS/436.md)
 - [475 Heaters](/BS/475.md)
 - **[540 Single Element in a Sorted Array](/BS/540.md)**
+
+## Tree
+
+- **[589 N-ary Tree Preorder Traversal](/Tree/589.md)**
+- - **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
 
 ## General Type
 
