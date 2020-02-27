@@ -176,6 +176,9 @@
 - **[556 Next Greater Element III](/Math/556.md)(the next permutation)**
 - [592 Fraction Addition and Subtraction](/Math/592.md)**(next的活用)**
 - [593 Valid Square](/Math/593.md)
+- [598 Range Addition II](/Math/598.md)
+- [633 Sum of Square Numbers](/Math/633.md)
+- **[640 Solve the Equation](/Math/640.md)**
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -245,6 +248,7 @@
 - **[406 Queue Reconstruction by Height](/Greedy/406.md)(sort & insert)**
 - **[435 Non-overlapping Intervals](/Greedy/435.md)**
 - [455 Assign Cookies](/Greedy/455.md)
+- ***[630 Course Schedule III](/Greedy/630.md)(General type)***
 
 ## Design
 
