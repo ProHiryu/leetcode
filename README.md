@@ -348,3 +348,4 @@
 - **[Permutation](/General/permutation.md)**
 - **[371 Sum of Two Integers](/General/371.md)(bit manipulation)**
 - [498 Diagonal Traverse](/General/498.md)
+- **[A* algorithm + BFS + Dijkstra](/General/675.md)(675 Cut Off Trees for Golf Event)**
