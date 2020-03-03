@@ -132,6 +132,7 @@
 - **[84 Largest Rectangle in Histogram](/Stack/84.md)**
 - **[85 Maximal Rectangle](/Stack/85.md)**
 - **[227 Basic Calculator II](/Stack/227.md)**
+- **[678 Valid Parenthesis String](/Stack/678.md)**
 
 ## Math
 
@@ -214,6 +215,7 @@
 - [539 Minimum Time Difference](/String/539.md)
 - [541 Reverse String II](/String/541.md)
 - [557 Reverse Words in a String III](/String/557.md)
+- [657 Robot Return to Origin](/String/657.md)
 
 ## Linked List
 
@@ -249,6 +251,7 @@
 - **[435 Non-overlapping Intervals](/Greedy/435.md)**
 - [455 Assign Cookies](/Greedy/455.md)
 - ***[630 Course Schedule III](/Greedy/630.md)(General type)***
+- ***[659 Split Array into Consecutive Subsequences](/Greedy/659.md)(General type)***
 
 ## Design
 
@@ -330,6 +333,7 @@
 - [436 Find Right Interval](/BS/436.md)
 - [475 Heaters](/BS/475.md)
 - **[540 Single Element in a Sorted Array](/BS/540.md)**
+- **[658 Find K Closest Elements](/BS/658.md)**
 
 ## Tree
 
