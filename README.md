@@ -180,6 +180,8 @@
 - [598 Range Addition II](/Math/598.md)
 - [633 Sum of Square Numbers](/Math/633.md)
 - **[640 Solve the Equation](/Math/640.md)**
+- [672 Bulb Switcher II](/Math/672.md)
+- [679 24 Game](/Math/679.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -216,6 +218,7 @@
 - [541 Reverse String II](/String/541.md)
 - [557 Reverse Words in a String III](/String/557.md)
 - [657 Robot Return to Origin](/String/657.md)
+- [686 Repeated String Match](/String/686.md)
 
 ## Linked List
 
@@ -240,6 +243,7 @@
 - [125 Valid Palindrome](/Palindrome/125.md)
 - [8 Palindrome Number](/Palindrome/8.md)
 - ***[564 Find the Closest Palindrome](/Palindrome/564.md)***
+- **[680 Valid Palindrome II](/Palindrome/680.md)**
 
 ## Greedy
 
@@ -298,6 +302,7 @@
 - [461 Hamming Distance](/BIT/461.md)(bin)
 - [476 Number Complement](/BIT/476.md)
 - [477 Total Hamming Distance](/BIT/477.md)(Hamming Distance)
+- [693 Binary Number with Alternating Bits](/BIT/693.md)(bin)
 
 ## Bash
 
@@ -317,6 +322,7 @@
 ## Trie
 
 - **[212 Word Search II](/Trie/212.md)**
+- [677 Map Sum Pairs](/Trie/677.md)
 
 ## Reservoir Sampling
 
@@ -334,11 +340,12 @@
 - [475 Heaters](/BS/475.md)
 - **[540 Single Element in a Sorted Array](/BS/540.md)**
 - **[658 Find K Closest Elements](/BS/658.md)**
+- [668 Kth Smallest Number in Multiplication Table](/BS/668.md)
 
 ## Tree
 
 - **[589 N-ary Tree Preorder Traversal](/Tree/589.md)**
-- - **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
+- **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
 
 ## General Type
 
