@@ -219,6 +219,7 @@
 - [557 Reverse Words in a String III](/String/557.md)
 - [657 Robot Return to Origin](/String/657.md)
 - [686 Repeated String Match](/String/686.md)
+- [696 Count Binary Substrings](/String/696.md)
 
 ## Linked List
 
