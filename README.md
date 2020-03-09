@@ -125,6 +125,7 @@
 - **[407 Trapping Rain Water II](/Heap/407.md)**
 - **[502 IPO](/Heap/502.md)(Greedy)**
 - **[506 Relative Ranks](/Heap/506.md)**
+- **[703 Kth Largest Element in a Stream](heappushpop)**
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
@@ -342,6 +343,7 @@
 - **[540 Single Element in a Sorted Array](/BS/540.md)**
 - **[658 Find K Closest Elements](/BS/658.md)**
 - [668 Kth Smallest Number in Multiplication Table](/BS/668.md)
+- [704 Binary Search](/BS/704.md)
 
 ## Tree
 
