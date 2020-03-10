@@ -7,6 +7,8 @@
 - **[274 H-Index](/HT/274.md)**
 - **[275 H-Index II](/HI/274md)**
 - **[388 Longest Absolute File Path](/HT/388.md)**
+- ***[705 Design HashSet](/HT/705.md)***
+- ***[706 Design HashMap](/HT/706.md)***
 
 ## Dynamic Programming
 
