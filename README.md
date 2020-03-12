@@ -32,6 +32,7 @@
 - **[688 Knight Probability in Chessboard](/DP/traditionalDP/688.md)**
 - **[691 Stickers to Spell Word](/DP/traditionalDP/691.md)**
 - **[712 Minimum ASCII Delete Sum for Two Strings](/DP/traditionalDP/712.md)**
+- ***[730 Count Different Palindromic Subsequences](/DP/traditionalDP/730.md)(cache + DP)***
 - [764 Largest Plus Sign](/DP/traditionalDP/764.md)
 - [790 Domino and Tromino Tiling](/DP/traditionalDP/790.md)
 - [808 Soup Servings](/DP/traditionalDP/808.md)
@@ -118,6 +119,8 @@
 - ***[547 Friend Circles](/DFS/traditionalDFS/547.md)(Union Find)***
 - [559 Maximum Depth of N-ary Tree](/DFS/traditionalDFS/559.md)
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
+- **[721 Accounts Merge](/DFS/traditionalDFS/721.md)**
+- [733 Flood Fill](/DFS/traditionalDFS/733.md)
 
 ## Heap
 
@@ -223,6 +226,9 @@
 - [657 Robot Return to Origin](/String/657.md)
 - [686 Repeated String Match](/String/686.md)
 - [696 Count Binary Substrings](/String/696.md)
+- [709 To Lower Case](/String/709.md)
+- [728 Self Dividing Numbers](/String/728.md)
+- [738 Monotone Increasing Digits](/String/738.md)
 
 ## Linked List
 
@@ -241,6 +247,7 @@
 - **[328 Odd Even Linked List](/LL/328.md)**
 - **[430 Flatten a Multilevel Doubly Linked List](/LL/430.md)**
 - [445 Add Two Numbers II](/LL/445.md)
+- **[725 Split Linked List in Parts](/LL/725.md)(分段方法 chunk)**
 
 ## Palindrome
 
@@ -270,6 +277,7 @@
 - **[295 Find Median from Data Stream](/Design/295.md)**(two heap)
 - **[307 Range Sum Query - Mutable](/Design/307.md)(Binary Index Tree)**
 - [384 Shuffle an Array](/Design/384.md)(random.shuffle)
+- ***[710 Random Pick with Blacklist](/Design/710.md)(Remap)***
 
 ## Sort
 
