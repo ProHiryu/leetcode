@@ -9,6 +9,7 @@
 - **[388 Longest Absolute File Path](/HT/388.md)**
 - ***[705 Design HashSet](/HT/705.md)***
 - ***[706 Design HashMap](/HT/706.md)***
+- ***[745 Prefix and Suffix Search](/HT/745.md)***
 
 ## Dynamic Programming
 
@@ -33,6 +34,7 @@
 - **[691 Stickers to Spell Word](/DP/traditionalDP/691.md)**
 - **[712 Minimum ASCII Delete Sum for Two Strings](/DP/traditionalDP/712.md)**
 - ***[730 Count Different Palindromic Subsequences](/DP/traditionalDP/730.md)(cache + DP)***
+- ***[741 Cherry Pickup](/DP/traditionalDP/741.md)(cache + DP)***
 - [764 Largest Plus Sign](/DP/traditionalDP/764.md)
 - [790 Domino and Tromino Tiling](/DP/traditionalDP/790.md)
 - [808 Soup Servings](/DP/traditionalDP/808.md)
@@ -130,7 +132,8 @@
 - **[407 Trapping Rain Water II](/Heap/407.md)**
 - **[502 IPO](/Heap/502.md)(Greedy)**
 - **[506 Relative Ranks](/Heap/506.md)**
-- **[703 Kth Largest Element in a Stream](heappushpop)**
+- **[703 Kth Largest Element in a Stream](/Heap/703.md)(heappushpop)**
+- **[743 Network Delay Time](/Heap/743.md)**
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
@@ -354,6 +357,7 @@
 - **[658 Find K Closest Elements](/BS/658.md)**
 - [668 Kth Smallest Number in Multiplication Table](/BS/668.md)
 - [704 Binary Search](/BS/704.md)
+- [744 Find Smallest Letter Greater Than Target](/BS/744.md)
 
 ## Tree
 
