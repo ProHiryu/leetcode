@@ -94,6 +94,7 @@
 - [429 N-ary Tree Level Order Traversal](/BFS/429.md)
 - **[433 Minimum Genetic Mutation](/BFS/433.md)**
 - **[440 K-th Smallest in Lexicographical Order](/BFS/440.md)**
+- [749 Contain Virus](/BFS/749.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
