@@ -271,6 +271,7 @@
 - [455 Assign Cookies](/Greedy/455.md)
 - ***[630 Course Schedule III](/Greedy/630.md)(General type)***
 - ***[659 Split Array into Consecutive Subsequences](/Greedy/659.md)(General type)***
+- [753 Cracking the Safe](/Greedy/753.md)
 
 ## Design
 
