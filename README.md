@@ -124,6 +124,7 @@
 - **[698 Partition to K Equal Sum Subsets](/DFS/traditionalDFS/698.md)**
 - **[721 Accounts Merge](/DFS/traditionalDFS/721.md)**
 - [733 Flood Fill](/DFS/traditionalDFS/733.md)
+- [756 Pyramid Transition Matrix](/DFS/traditionalDFS/756.md)
 
 ## Heap
 
@@ -192,6 +193,7 @@
 - **[640 Solve the Equation](/Math/640.md)**
 - [672 Bulb Switcher II](/Math/672.md)
 - [679 24 Game](/Math/679.md)
+- [754 Reach a Number](/Math/754.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
