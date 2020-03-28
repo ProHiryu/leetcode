@@ -274,6 +274,7 @@
 - ***[630 Course Schedule III](/Greedy/630.md)(General type)***
 - ***[659 Split Array into Consecutive Subsequences](/Greedy/659.md)(General type)***
 - [753 Cracking the Safe](/Greedy/753.md)
+- ***[757 Set Intersection Size At Least Two](/Greedy/757.md)***
 
 ## Design
 
