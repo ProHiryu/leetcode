@@ -323,6 +323,7 @@
 - [476 Number Complement](/BIT/476.md)
 - [477 Total Hamming Distance](/BIT/477.md)(Hamming Distance)
 - [693 Binary Number with Alternating Bits](/BIT/693.md)(bin)
+- [762 Prime Number of Set Bits in Binary Representation](/BIT/762.md)
 
 ## Bash
 
