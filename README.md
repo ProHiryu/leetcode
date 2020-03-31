@@ -79,6 +79,7 @@
 - [524 Longest Word in Dictionary through Deleting](/TP/524.md)
 - [567 Permutation in String](/TP/567.md)
 - **[763 Partition Labels](/TP/763.md)**
+- [777 Swap Adjacent in LR String](/TP/777.md)
 - [826 Most Profit Assigning Work](/TP/826.md)
 - **[828 Unique Letter String](/TP/828.md)**
 - **[838 Push Dominoes](/TP/838.md)**
@@ -95,6 +96,7 @@
 - **[433 Minimum Genetic Mutation](/BFS/433.md)**
 - **[440 K-th Smallest in Lexicographical Order](/BFS/440.md)**
 - [749 Contain Virus](/BFS/749.md)
+- [773 Sliding Puzzle](/BFS/773.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
@@ -136,6 +138,7 @@
 - **[506 Relative Ranks](/Heap/506.md)**
 - **[703 Kth Largest Element in a Stream](/Heap/703.md)(heappushpop)**
 - **[743 Network Delay Time](/Heap/743.md)**
+- ***[767 Reorganize String](/Heap/767.md)***
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 
 ## Stack
@@ -275,6 +278,7 @@
 - ***[659 Split Array into Consecutive Subsequences](/Greedy/659.md)(General type)***
 - [753 Cracking the Safe](/Greedy/753.md)
 - ***[757 Set Intersection Size At Least Two](/Greedy/757.md)***
+- [765 Couples Holding Hands](/Greedy/765.md)
 
 ## Design
 
