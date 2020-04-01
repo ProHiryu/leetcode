@@ -197,6 +197,8 @@
 - [672 Bulb Switcher II](/Math/672.md)
 - [679 24 Game](/Math/679.md)
 - [754 Reach a Number](/Math/754.md)
+- [779 K-th Symbol in Grammar](/Math/779.md)
+- [780 Reaching Points](/Math/780.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -279,6 +281,7 @@
 - [753 Cracking the Safe](/Greedy/753.md)
 - ***[757 Set Intersection Size At Least Two](/Greedy/757.md)***
 - [765 Couples Holding Hands](/Greedy/765.md)
+- [778 Swim in Rising Water](/Greedy/778.md)
 
 ## Design
 
