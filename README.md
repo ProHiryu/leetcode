@@ -127,6 +127,7 @@
 - **[721 Accounts Merge](/DFS/traditionalDFS/721.md)**
 - [733 Flood Fill](/DFS/traditionalDFS/733.md)
 - [756 Pyramid Transition Matrix](/DFS/traditionalDFS/756.md)
+- [785 Is Graph Bipartite](/DFS/traditionalDFS/785.md)
 
 ## Heap
 
@@ -371,11 +372,13 @@
 - [668 Kth Smallest Number in Multiplication Table](/BS/668.md)
 - [704 Binary Search](/BS/704.md)
 - [744 Find Smallest Letter Greater Than Target](/BS/744.md)
+- **[786 K-th Smallest Prime Fraction](/BS/786.md)**
 
 ## Tree
 
 - **[589 N-ary Tree Preorder Traversal](/Tree/589.md)**
 - **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
+- [783 Minimum Distance Between BST Nodes](/Tree/783.md)
 
 ## General Type
 
