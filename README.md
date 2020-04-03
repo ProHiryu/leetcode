@@ -128,6 +128,7 @@
 - [733 Flood Fill](/DFS/traditionalDFS/733.md)
 - [756 Pyramid Transition Matrix](/DFS/traditionalDFS/756.md)
 - [785 Is Graph Bipartite](/DFS/traditionalDFS/785.md)
+- [797 All Paths From Source to Target](/DFS/traditionalDFS/797.md)(iterative DFS)
 
 ## Heap
 
@@ -200,6 +201,8 @@
 - [754 Reach a Number](/Math/754.md)
 - [779 K-th Symbol in Grammar](/Math/779.md)
 - [780 Reaching Points](/Math/780.md)
+- **[788 Rotated Digits](/Math/788.md)**
+- [789 Escape The Ghosts](/Math/789.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -241,6 +244,7 @@
 - [709 To Lower Case](/String/709.md)
 - [728 Self Dividing Numbers](/String/728.md)
 - [738 Monotone Increasing Digits](/String/738.md)
+- [791 Custom Sort String](/String/791.md)
 
 ## Linked List
 
