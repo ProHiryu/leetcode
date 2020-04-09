@@ -80,6 +80,7 @@
 - [567 Permutation in String](/TP/567.md)
 - **[763 Partition Labels](/TP/763.md)**
 - [777 Swap Adjacent in LR String](/TP/777.md)
+- [809 Expressive Words](/TP/809.md)
 - [826 Most Profit Assigning Work](/TP/826.md)
 - **[828 Unique Letter String](/TP/828.md)**
 - **[838 Push Dominoes](/TP/838.md)**
@@ -129,6 +130,8 @@
 - [756 Pyramid Transition Matrix](/DFS/traditionalDFS/756.md)
 - [785 Is Graph Bipartite](/DFS/traditionalDFS/785.md)
 - [797 All Paths From Source to Target](/DFS/traditionalDFS/797.md)(iterative DFS)
+- **[802 Find Eventual Safe States](/DFS/traditionalDFS/802.md)**
+- [803 Bricks Falling When Hit](/DFS/traditionalDFS/803.md)
 
 ## Heap
 
@@ -203,6 +206,7 @@
 - [780 Reaching Points](/Math/780.md)
 - **[788 Rotated Digits](/Math/788.md)**
 - [789 Escape The Ghosts](/Math/789.md)
+- [805 Split Array With Same Average](/Math/805.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -245,6 +249,9 @@
 - [728 Self Dividing Numbers](/String/728.md)
 - [738 Monotone Increasing Digits](/String/738.md)
 - [791 Custom Sort String](/String/791.md)
+- [804 Unique Morse Code Words](/String/804.md)
+- [806 Number of Lines To Write String](/String/806.md)
+- ***[807 Max Increase to Keep City Skyline](/String/807.md)(transpose of matrix)***
 
 ## Linked List
 
