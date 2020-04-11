@@ -40,12 +40,14 @@
 - [808 Soup Servings](/DP/traditionalDP/808.md)
 - **[813 Largest Sum of Averages](/DP/traditionalDP/813.md)**
 - [818 Race Car](/DP/traditionalDP/818.md)
+- ***[823 Binary Trees With Factors](/DP/traditionalDP/823.md)***
 - **[887 Super Egg Drop](/DP/traditionalDP/887.md)**
 - [898 Bitwise ORs of Subarrays](/DP/traditionalDP/898.md)
 - [903 Valid Permutations for DI Sequence](/DP/traditionalDP/903.md)
 
 ### difference_DP
 
+- [821 Shortest Distance to a Character](/DP/differenceDP/821.md)
 - **[837 New 21 Game](/DP/differenceDP/837.md)**
 - [873 Length of Longest Fibonacci Subsequence](/DP/differenceDP/873.md)
 - [877 Stone Game](/DP/differenceDP/877.md)
@@ -98,6 +100,7 @@
 - **[440 K-th Smallest in Lexicographical Order](/BFS/440.md)**
 - [749 Contain Virus](/BFS/749.md)
 - [773 Sliding Puzzle](/BFS/773.md)
+- [815 Bus Routes](/BFS/815.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
 
 ## DFS
@@ -132,6 +135,7 @@
 - [797 All Paths From Source to Target](/DFS/traditionalDFS/797.md)(iterative DFS)
 - **[802 Find Eventual Safe States](/DFS/traditionalDFS/802.md)**
 - [803 Bricks Falling When Hit](/DFS/traditionalDFS/803.md)
+- **[827 Making A Large Island](/DFS/traditionalDFS/827.md)**
 
 ## Heap
 
@@ -207,6 +211,9 @@
 - **[788 Rotated Digits](/Math/788.md)**
 - [789 Escape The Ghosts](/Math/789.md)
 - [805 Split Array With Same Average](/Math/805.md)
+- [812 Largest Triangle Area](/Math/812.md)
+- [822 Card Flipping Game](/Math/822.md)
+- [829 Consecutive Numbers Sum](/Math/829.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 
 ## String
@@ -252,6 +259,11 @@
 - [804 Unique Morse Code Words](/String/804.md)
 - [806 Number of Lines To Write String](/String/806.md)
 - ***[807 Max Increase to Keep City Skyline](/String/807.md)(transpose of matrix)***
+- [816 Ambiguous Coordinates](/String/816.md)
+- [819 Most Common Word](/String/819.md)(collections.Counter.most_common(1)[0][0])
+- [820 Short Encoding of Words](/String/820.md)
+- [824 Goat Latin](/String/824.md)
+- [831 Masking Personal Information](/String/831.md)(string.find)
 
 ## Linked List
 
@@ -265,12 +277,13 @@
 - [147 Insertion Sort List](/LL/147.md)
 - **[148 Sort List](/LL/148.md)**(merge sort)
 - [160 Intersection of Two Linked Lists](/LL/160.md)
-- [203 Remove Linked List Elements](/LL/203.md)
-- **[206 Reverse Linked List](/LL/206.md)**(Standard Reverse)
+- [203 Remove Linked List Elements](/LL/206.md)
+- **[206 Reverse Linked List](/LL/203.md)**(Standard Reverse)
 - **[328 Odd Even Linked List](/LL/328.md)**
 - **[430 Flatten a Multilevel Doubly Linked List](/LL/430.md)**
 - [445 Add Two Numbers II](/LL/445.md)
 - **[725 Split Linked List in Parts](/LL/725.md)(分段方法 chunk)**
+- [817 Linked List Components](/LL/817.md)
 
 ## Palindrome
 
