@@ -264,6 +264,7 @@
 - [820 Short Encoding of Words](/String/820.md)
 - [824 Goat Latin](/String/824.md)
 - [831 Masking Personal Information](/String/831.md)(string.find)
+- [833 Find And Replace in String](/String/833.md)
 
 ## Linked List
 
