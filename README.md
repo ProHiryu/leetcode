@@ -136,6 +136,7 @@
 - **[802 Find Eventual Safe States](/DFS/traditionalDFS/802.md)**
 - [803 Bricks Falling When Hit](/DFS/traditionalDFS/803.md)
 - **[827 Making A Large Island](/DFS/traditionalDFS/827.md)**
+- [841 Keys and Rooms](/DFS/traditionalDFS/841.md)
 
 ## Heap
 
@@ -266,6 +267,7 @@
 - [824 Goat Latin](/String/824.md)
 - [831 Masking Personal Information](/String/831.md)(string.find)
 - [833 Find And Replace in String](/String/833.md)
+- [842 Split Array into Fibonacci Sequence](/String/842.md)
 
 ## Linked List
 
