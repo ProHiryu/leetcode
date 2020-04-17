@@ -311,6 +311,7 @@
 - ***[757 Set Intersection Size At Least Two](/Greedy/757.md)***
 - [765 Couples Holding Hands](/Greedy/765.md)
 - [778 Swim in Rising Water](/Greedy/778.md)
+- **[846 Hand of Straights](/Greedy/846.md)**
 
 ## Design
 
