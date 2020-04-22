@@ -102,6 +102,7 @@
 - [773 Sliding Puzzle](/BFS/773.md)
 - [815 Bus Routes](/BFS/815.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
+- ***[854 K-Similar Strings]***
 
 ## DFS
 
@@ -137,6 +138,7 @@
 - [803 Bricks Falling When Hit](/DFS/traditionalDFS/803.md)
 - **[827 Making A Large Island](/DFS/traditionalDFS/827.md)**
 - [841 Keys and Rooms](/DFS/traditionalDFS/841.md)
+- ***[851 Loud and Rich](/DFS/traditionalDFS/851.md)***
 
 ## Heap
 
@@ -150,6 +152,7 @@
 - **[743 Network Delay Time](/Heap/743.md)**
 - ***[767 Reorganize String](/Heap/767.md)***
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
+- ***[857 Minimum Cost to Hire K Workers](/Heap/857.md)***
 
 ## Stack
 
@@ -217,6 +220,7 @@
 - [829 Consecutive Numbers Sum](/Math/829.md)
 - [836 Rectangle Overlap](/Math/836.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
+- [861 Score After Flipping Matrix](/Math/861.md)
 
 ## String
 
@@ -268,6 +272,7 @@
 - [831 Masking Personal Information](/String/831.md)(string.find)
 - [833 Find And Replace in String](/String/833.md)
 - [842 Split Array into Fibonacci Sequence](/String/842.md)
+- [859 Buddy Strings](/String/859.md)
 
 ## Linked List
 
@@ -312,6 +317,7 @@
 - [765 Couples Holding Hands](/Greedy/765.md)
 - [778 Swim in Rising Water](/Greedy/778.md)
 - **[846 Hand of Straights](/Greedy/846.md)**
+- [860 Lemonade Change](/Greedy/860.md)
 
 ## Design
 
@@ -402,6 +408,7 @@
 - [704 Binary Search](/BS/704.md)
 - [744 Find Smallest Letter Greater Than Target](/BS/744.md)
 - **[786 K-th Smallest Prime Fraction](/BS/786.md)**
+- [852 Peak Index in a Mountain Array](/BS/852.md)
 
 ## Tree
 
@@ -422,3 +429,4 @@
 - **[371 Sum of Two Integers](/General/371.md)(bit manipulation)**
 - [498 Diagonal Traverse](/General/498.md)
 - **[A* algorithm + BFS + Dijkstra](/General/675.md)(675 Cut Off Trees for Golf Event)**
+- **[209 Minimum Size Subarray Sum](/General/209.md)**
