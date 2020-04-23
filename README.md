@@ -89,7 +89,11 @@
 - [845 Longest Mountain in Array](/TP/845.md)
 - [881 Boats to Save People](/TP/881.md)
 - **[904 Fruit into Baskets](/TP/904.md)**
-- **[992 Subarrays with K Different Integers]**
+- **[992 Subarrays with K Different Integers](/TP/992.md)**
+- [930 Binary Subarrays With Sum](/TP/930.md)
+- [1004 Max Consecutive Ones III](/TP/1004.md)
+- [1234 Replace the Substring for Balanced String](/TP/1234.md)
+- [1248 Count Number of Nice Subarrays](/TP/1248.md)
 
 ## BFS
 
@@ -102,7 +106,7 @@
 - [773 Sliding Puzzle](/BFS/773.md)
 - [815 Bus Routes](/BFS/815.md)
 - **[847 Shortest Path Visiting All Nodes](/BFS/847.md)**
-- ***[854 K-Similar Strings]***
+- ***[854 K-Similar Strings](/BFS/854.md)***
 
 ## DFS
 
