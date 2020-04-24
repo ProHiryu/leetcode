@@ -94,6 +94,7 @@
 - [1004 Max Consecutive Ones III](/TP/1004.md)
 - [1234 Replace the Substring for Balanced String](/TP/1234.md)
 - [1248 Count Number of Nice Subarrays](/TP/1248.md)
+- [874 Walking Robot Simulation](/TP/874.md)
 
 ## BFS
 
@@ -225,6 +226,7 @@
 - [836 Rectangle Overlap](/Math/836.md)
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 - [861 Score After Flipping Matrix](/Math/861.md)
+- [869 Reordered Power of 2](/Math/869.md)
 
 ## String
 
@@ -344,6 +346,7 @@
 - ***[324 Wiggle Sort II](/Sort/324.md)(Virtual Index)***
 - **[327 Count of Range Sum](/Sort/327.md)(Binary Search Tree, bisect)**
 - **[493 Reverse Pairs](/Sort/493.md)(Merge Sort for pairs)**
+- **[870 Advantage Shuffle](/Sort/870.md)**
 
 ## SQL
 
@@ -371,6 +374,7 @@
 - [477 Total Hamming Distance](/BIT/477.md)(Hamming Distance)
 - [693 Binary Number with Alternating Bits](/BIT/693.md)(bin)
 - [762 Prime Number of Set Bits in Binary Representation](/BIT/762.md)
+- [868 Binary Gap](/BIT/868.md)
 
 ## Bash
 
@@ -419,6 +423,7 @@
 - **[589 N-ary Tree Preorder Traversal](/Tree/589.md)**
 - **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
 - [783 Minimum Distance Between BST Nodes](/Tree/783.md)
+- [872 Leaf-Similar Trees](/Tree/872.md)(yield)
 
 ## General Type
 
