@@ -299,6 +299,7 @@
 - [445 Add Two Numbers II](/LL/445.md)
 - **[725 Split Linked List in Parts](/LL/725.md)(分段方法 chunk)**
 - [817 Linked List Components](/LL/817.md)
+- [876 Middle of the Linked List](/LL/876.md)
 
 ## Palindrome
 
@@ -417,6 +418,7 @@
 - [744 Find Smallest Letter Greater Than Target](/BS/744.md)
 - **[786 K-th Smallest Prime Fraction](/BS/786.md)**
 - [852 Peak Index in a Mountain Array](/BS/852.md)
+- **[875 Koko Eating Bananas](/BS/875.md)**
 
 ## Tree
 
