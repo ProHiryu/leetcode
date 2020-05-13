@@ -227,6 +227,7 @@
 - **[902 Numbers At Most N Given Digit Set](/Math/902.md)**
 - [861 Score After Flipping Matrix](/Math/861.md)
 - [869 Reordered Power of 2](/Math/869.md)
+- [878 Nth Magical Number](/Math/878.md)
 
 ## String
 
@@ -279,6 +280,7 @@
 - [833 Find And Replace in String](/String/833.md)
 - [842 Split Array into Fibonacci Sequence](/String/842.md)
 - [859 Buddy Strings](/String/859.md)
+- [880 Decoded String at Index](/String/880.md)
 
 ## Linked List
 
