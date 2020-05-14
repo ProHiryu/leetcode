@@ -393,6 +393,7 @@
 - **[310 Minimum Height Trees](/Graph/310.md)(BFS + Leaves)**
 - ***[332 Reconstruct Itinerary](/Graph/332.md)(DFS + Greedy Eulerian Path)***
 - **[399 Evaluate Division](/Graph/399.md)**
+- ***[882 Reachable Nodes In Subdivided Graph](/Graph/882.md)***
 
 ## Trie
 
