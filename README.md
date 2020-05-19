@@ -395,6 +395,7 @@
 - ***[332 Reconstruct Itinerary](/Graph/332.md)(DFS + Greedy Eulerian Path)***
 - **[399 Evaluate Division](/Graph/399.md)**
 - ***[882 Reachable Nodes In Subdivided Graph](/Graph/882.md)***
+- ***[886 Possible Bipartition](/Graph/886.md)***
 
 ## Trie
 
