@@ -148,6 +148,7 @@
 ## Heap
 
 - **[239 Sliding Window Maximum](/Heap/239.md)**
+- **[480 Sliding Window Median](/Heap/480.md)**
 - **[313 Super Ugly Number](/Heap/313.md)**
 - **[373 Find K Pairs with Smallest Sums](/Heap/373.md)**
 - **[407 Trapping Rain Water II](/Heap/407.md)**
@@ -310,6 +311,7 @@
 - [8 Palindrome Number](/Palindrome/8.md)
 - ***[564 Find the Closest Palindrome](/Palindrome/564.md)***
 - **[680 Valid Palindrome II](/Palindrome/680.md)**
+- [866 Prime Palindrome](/Palindrome/866.md)
 
 ## Greedy
 
