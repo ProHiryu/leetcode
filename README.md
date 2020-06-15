@@ -343,13 +343,16 @@
 - **[307 Range Sum Query - Mutable](/Design/307.md)(Binary Index Tree)**
 - [384 Shuffle an Array](/Design/384.md)(random.shuffle)
 - ***[710 Random Pick with Blacklist](/Design/710.md)(Remap)***
+- ***[715 Range Module](/Design/715.md)***
 
 ## Sort
 
+- [56 Merge Intervals](/Sort/56.md)
 - **[164 Maximum Gap](/Sort/164.md)(bucket sorting)**
 - **[179 Largest Number](/Sort/179.md)**(Comparable, python.sort())
 - **[215 Kth Largest Element in an Array](/Sort/215.md)(Quick Select)**
 - **[220 Contains Duplicate III](/Sort/220.md)(Bucket Sorting)**
+- **[268 Missing Number](/Sort/268.md)**
 - **[315 Count of Smaller Numbers After Self](/Sort/315.md)**
 - ***[324 Wiggle Sort II](/Sort/324.md)(Virtual Index)***
 - **[327 Count of Range Sum](/Sort/327.md)(Binary Search Tree, bisect)**
