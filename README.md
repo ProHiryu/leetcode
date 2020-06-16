@@ -353,6 +353,7 @@
 - **[215 Kth Largest Element in an Array](/Sort/215.md)(Quick Select)**
 - **[220 Contains Duplicate III](/Sort/220.md)(Bucket Sorting)**
 - **[268 Missing Number](/Sort/268.md)**
+- ***[287 Find the Duplicate Number](/Sort/287.md)***
 - **[315 Count of Smaller Numbers After Self](/Sort/315.md)**
 - ***[324 Wiggle Sort II](/Sort/324.md)(Virtual Index)***
 - **[327 Count of Range Sum](/Sort/327.md)(Binary Search Tree, bisect)**
