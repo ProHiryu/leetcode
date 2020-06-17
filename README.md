@@ -100,6 +100,7 @@
 
 ## BFS
 
+- ***[90 Subsets II](/BFS/90.md)***
 - **[130 Surrounded Regions](/BFS/130.md)**(BFS)
 - **[279 Perfect Squares](/BFS/279.md)(minimum suited condition)**
 - [429 N-ary Tree Level Order Traversal](/BFS/429.md)
@@ -347,6 +348,7 @@
 
 ## Sort
 
+- [41 First Missing Positive](/Sort/41.md)
 - [56 Merge Intervals](/Sort/56.md)
 - **[164 Maximum Gap](/Sort/164.md)(bucket sorting)**
 - **[179 Largest Number](/Sort/179.md)**(Comparable, python.sort())
