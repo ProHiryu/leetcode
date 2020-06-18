@@ -140,6 +140,7 @@
 - **[721 Accounts Merge](/DFS/traditionalDFS/721.md)**
 - [733 Flood Fill](/DFS/traditionalDFS/733.md)
 - [756 Pyramid Transition Matrix](/DFS/traditionalDFS/756.md)
+- **[784 Letter Case Permutation](/DFS/traditionalDFS/784.md)**
 - [785 Is Graph Bipartite](/DFS/traditionalDFS/785.md)
 - [797 All Paths From Source to Target](/DFS/traditionalDFS/797.md)(iterative DFS)
 - **[802 Find Eventual Safe States](/DFS/traditionalDFS/802.md)**
@@ -147,6 +148,7 @@
 - **[827 Making A Large Island](/DFS/traditionalDFS/827.md)**
 - [841 Keys and Rooms](/DFS/traditionalDFS/841.md)
 - ***[851 Loud and Rich](/DFS/traditionalDFS/851.md)***
+- [916 Word Subsets](/DFS/traditionalDFS/916.md)
 
 ## Heap
 
@@ -419,6 +421,7 @@
 
 ## Binary Search
 
+- ***[33 Search in Rotated Sorted Array](/BS/33.md)***
 - **[240 Search a 2D Matrix II](/BS/240.md)**(Bi-Binary-Search)
 - [278 First Bad Version](/BS/278.md)
 - **[300 Longest Increasing Subsequence](/BS/278.md)**
