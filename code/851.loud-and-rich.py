@@ -1,0 +1,34 @@
+#
+# @lc app=leetcode id=851 lang=python3
+#
+# [851] Loud and Rich
+#
+
+# @lc code=start
+class Solution:
+    '''
+    思路：
+        1. 设定所谓的dfs是返回一个值，这个值代表着dfs当前person的结果，也就是满足条件的最小
+            quiet的人
+        2. 事先设定一个对应的res数组，将初始值设置为负数
+        3. 当我们在dfs过程中只要遇到了res的值大于等于0则必然已经经历过dfs，直接更新答案即可
+        4. 默认更新res为i，同时在比i大的任意j中进行dfs，寻找他们的满足条件的答案
+        5. 由于答案每次都被更新，所以必然可以保证不出现重复计算，效率最高
+        6. 此题的难度在于必须要进一步更新所有比i大的数字，而不是只是一层即可
+    '''
+    def loudAndRich(self, richer: List[List[int]], quiet: List[int]) -> List[int]:
+        m = collections.defaultdict(list)
+        for i, j in richer: m[j].append(i)
+        res = [-1] * len(quiet)
+
+        def dfs(i):
+            if res[i] >= 0: return res[i]
+            res[i] = i
+            for j in m[i]:
+                if quiet[res[i]] > quiet[dfs(j)]: res[i] = res[j]
+            return res[i]
+
+        for i in range(len(quiet)): dfs(i)
+        return res
+# @lc code=end
+

@@ -1,0 +1,44 @@
+#
+# @lc app=leetcode id=882 lang=python3
+#
+# [882] Reachable Nodes In Subdivided Graph
+#
+
+# @lc code=start
+class Solution:
+    '''
+    思路：
+        Dijkstra + Priority Queue
+        1. e用来存储相关图的边节点信息
+        2. pq用于保存当前节点，同时和当前节点还剩下的move数
+        3. 按照最大move来pop pq，每次只看还剩下最多move的节点
+        4. 用seen来保存目前已经到的节点，因为按照move最大来pop，所以seen当中保存的都是最早到达该节点的move数
+        5. 对于每个还没遍历到的节点，找到和它相连的节点，看看能否通过当前move到达相邻节点，如果可以同时对方节点没有被
+            遍历过的话，将其放入seen当中，如果已经遍历过或者无法到达则不将其保存
+
+        6. 通过这些操作我们得到的是，所有节点的最大可操作move，所以计算答案的时候，把每个相邻节点对
+            的长度或者两个还能移动的move加起来即为最终的可以遍历的节点数目
+
+        第一部分使用的是Dijkstra来做遍历，pq的方法是防止后续重复计算
+
+        整体时间复杂度：Dijkstra + Heap is O(E log E)
+    '''
+    def reachableNodes(self, edges: List[List[int]], M: int, N: int) -> int:
+        e = collections.defaultdict(dict)
+        for i, j, l in edges: e[i][j] = e[j][i] = l
+        pq = [(-M, 0)]
+        seen = {}
+        while pq:
+            moves, i = heapq.heappop(pq)
+            if i not in seen:
+                seen[i] = -moves
+                for j in e[i]:
+                    new_moves = -moves - e[i][j] - 1
+                    if j not in seen and new_moves >= 0:
+                        heapq.heappush(pq, (-new_moves, j))
+        res = len(seen)
+        for i, j, k in edges:
+            res += min(seen.get(i, 0) + seen.get(j, 0), e[i][j])
+        return res
+# @lc code=end
+

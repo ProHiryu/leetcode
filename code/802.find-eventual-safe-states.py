@@ -1,0 +1,30 @@
+#
+# @lc app=leetcode id=802 lang=python3
+#
+# [802] Find Eventual Safe States
+#
+
+# @lc code=start
+class Solution:
+    def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
+        visited = [-1 for _ in range(len(graph))]
+        res = []
+        
+        def dfs(i):
+            # 暂时定位为不安全节点，等到循环结束改为安全节点
+            visited[i] = 0
+            for j in graph[i]:
+                # 如果找到已经访问过的不安全节点，说明有环，直接返回
+                if visited[j] == 0 or (visited[j] == -1 and dfs(j)):
+                    return True
+            # 已经访问并且确认为安全节点
+            visited[i] = 1
+            res.append(i)
+            return False
+        
+        for i in range(len(graph)):
+            if visited[i] == -1:
+                dfs(i)
+        return sorted(res)
+# @lc code=end
+
