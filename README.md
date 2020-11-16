@@ -10,6 +10,8 @@
 - ***[705 Design HashSet](/HT/705.md)***
 - ***[706 Design HashMap](/HT/706.md)***
 - ***[745 Prefix and Suffix Search](/HT/745.md)***
+- [888 Fair Candy Swap](/HT/888.md)
+- [890 Find and Replace Pattern](/HT/890.md)
 
 ## Dynamic Programming
 
@@ -19,6 +21,7 @@
 
 - ***[518 Coin Change 2](/DP/knapsack/518.md)(Coin Change)***
 - **[879 Profitable Schemes](/DP/knapsack/879.md)**
+- [1049 Last Stone Weight II](/DP/knapsack/1049.md)
 
 ### multi_var_DP
 
@@ -28,6 +31,8 @@
 ### traditional_DP
 
 - **[10 Regular Expression Matching](/DP/traditionalDP/10.md)**
+- [120 Triangle](/DP/traditionalDP/120.md)
+- [474 Ones and Zeroes](/DP/traditionalDP/474.md)
 - [583 Delete Operation for Two Strings](/DP/traditionalDP/583.md)
 - [664 Strange Printer](/DP/traditionalDP/664.md)
 - **[688 Knight Probability in Chessboard](/DP/traditionalDP/688.md)**
@@ -42,8 +47,11 @@
 - [818 Race Car](/DP/traditionalDP/818.md)
 - ***[823 Binary Trees With Factors](/DP/traditionalDP/823.md)***
 - **[887 Super Egg Drop](/DP/traditionalDP/887.md)**
+- **[894 All Possible Full Binary Trees](/DP/traditionalDP/894.md)**
 - [898 Bitwise ORs of Subarrays](/DP/traditionalDP/898.md)
 - [903 Valid Permutations for DI Sequence](/DP/traditionalDP/903.md)
+- **[920 Number of Music Playlists](/DP/traditionalDP/920.md)**
+- [1143 Longest Common Subsequence](/DP/traditionalDP/1143.md)
 
 ### difference_DP
 
@@ -153,6 +161,8 @@
 ## Heap
 
 - **[239 Sliding Window Maximum](/Heap/239.md)**
+- [264 Ugly Number II](/Heap/264.md)
+- [347 Top K Frequent Elements](/Heap/347.md)
 - **[480 Sliding Window Median](/Heap/480.md)**
 - **[313 Super Ugly Number](/Heap/313.md)**
 - **[373 Find K Pairs with Smallest Sums](/Heap/373.md)**
@@ -164,6 +174,8 @@
 - ***[767 Reorganize String](/Heap/767.md)***
 - **[871 Minimum Number of Refueling Stops](/Heap/871.md)**
 - ***[857 Minimum Cost to Hire K Workers](/Heap/857.md)***
+- [692 Top K Frequent Words](/Heap/692.md)
+- **[891 Sum of Subsequence Widths](/Greedy/891.md)**
 
 ## Stack
 
@@ -171,6 +183,7 @@
 - **[85 Maximal Rectangle](/Stack/85.md)**
 - **[227 Basic Calculator II](/Stack/227.md)**
 - **[678 Valid Parenthesis String](/Stack/678.md)**
+- ***[907 Sum of Subarray Minimums](/Stack/907.md)***
 
 ## Math
 
@@ -189,6 +202,7 @@
 - [223 Rectangle Area](/Math/223.md)
 - [233 Number of Digit One](/Math/233.md)
 - [258 Add Digits](/Math/258.md)
+- [263 Ugly Number](/Math/263.md)
 - [319 Bulb Switcher](/Math/319.md)
 - [326 Power of Three](/Math/326.md)
 - [335 Self Crossing](/Math/335.md)
@@ -288,6 +302,7 @@
 - [859 Buddy Strings](/String/859.md)
 - [880 Decoded String at Index](/String/880.md)
 - [884 Uncommon Words from Two Sentences](/String/884.md)
+- [899 Orderly Queue](/String/899.md)
 
 ## Linked List
 
@@ -317,6 +332,7 @@
 - ***[564 Find the Closest Palindrome](/Palindrome/564.md)***
 - **[680 Valid Palindrome II](/Palindrome/680.md)**
 - [866 Prime Palindrome](/Palindrome/866.md)
+- **[906 Super Palindromes](/Palindrome/906.md)**
 
 ## Greedy
 
@@ -363,6 +379,8 @@
 - **[327 Count of Range Sum](/Sort/327.md)(Binary Search Tree, bisect)**
 - **[493 Reverse Pairs](/Sort/493.md)(Merge Sort for pairs)**
 - **[870 Advantage Shuffle](/Sort/870.md)**
+- [896 Monotonic Array](/Sort/896.md)
+- [912 Sort an Array](/Sort/912.md)
 
 ## SQL
 
@@ -422,6 +440,7 @@
 ## Binary Search
 
 - ***[33 Search in Rotated Sorted Array](/BS/33.md)***
+- **[153 Find Minimum in Rotated Sorted Array](/BS/153.md)**
 - **[240 Search a 2D Matrix II](/BS/240.md)**(Bi-Binary-Search)
 - [278 First Bad Version](/BS/278.md)
 - **[300 Longest Increasing Subsequence](/BS/278.md)**
@@ -440,10 +459,15 @@
 
 ## Tree
 
+***[105 Construct Binary Tree from Preorder and Inorder Traversal](/Tree/105.md)***
+***[106 Construct Binary Tree from Inorder and Postorder Traversal](/Tree/106.md)***
 - **[589 N-ary Tree Preorder Traversal](/Tree/589.md)**
 - **[590 N-ary Tree Postorder Traversal](/Tree/590.md)**
 - [783 Minimum Distance Between BST Nodes](/Tree/783.md)
 - [872 Leaf-Similar Trees](/Tree/872.md)(yield)
+- ***[889 Construct Binary Tree from Preorder and Postorder Traversal](/Tree/889.md)***
+- [897 Increasing Order Search Tree](/Tree/897.md)
+- [919 Complete Binary Tree Inserter](/Tree/919.md)
 
 ## General Type
 
